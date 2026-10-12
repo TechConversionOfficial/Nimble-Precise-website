@@ -1,11 +1,20 @@
-
 # Nimble Precise website: structured learning made clearer for students and educators
 
 **Nimble Precise is an online education and educator-training brand founded by Anita Tom. Its [website](https://nimbleprecise.com/) was developed by [Tech Conversion](https://techconversion.tech/) to present skill-based courses, level-wise learning journeys and educator programmes in an approachable way. Parents can understand what their children will learn, while teachers and prospective education partners have a separate route to explore training and certification.**
 
-![Nimble Precise educator-training homepage presentation](images/nimble-precise-educator-homepage-mockup.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nimble-precise-website-mockup.png">
+    <img src="https://techconversion.tech/api/media/portfolio/nimble-precise-website-mockup.png" alt="Nimble Precise website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Saved Nimble Precise project artwork showing the educator-training homepage in a laptop mockup. This is a portfolio presentation image, not an independently dated live-browser screenshot.*
+<p align="center">
+  <a href="https://nimbleprecise.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/before-after"><strong>Before &amp; after gallery</strong></a>
+</p>
 
 | | |
 |---|---|
@@ -46,23 +55,70 @@ The points below describe the **published site's approach**. They should not be 
 6. **Make progress and community part of the story.** The public website contains testimonials, events, learning-community information and a [results page](https://nimbleprecise.com/result/) presenting abacus competition achievements.
 7. **Offer a direct next step.** Demo-class enquiries, course guidance and educator-partnership enquiries appear as calls to action. The website also offers a separate free-trial booking link.
 
-## Project images and visual direction
+## Website and project images
 
-The image files here all come from **one genuine saved Nimble Precise educator homepage presentation**. The additional files are crops from that same image, included to make the text and layout easier to inspect in GitHub. They are **not three additional page screenshots**, nor independently verified live-site captures.
+### Official website mockup
 
-### Educator-training page presentation
+The following Tech Conversion portfolio mockup presents Nimble Precise as a polished education and educator-training website project.
 
-![Close-up of Nimble Precise educator-training homepage design](images/nimble-precise-educator-homepage-detail.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/nimble-precise-website-mockup.png">
+    <img src="https://techconversion.tech/api/media/portfolio/nimble-precise-website-mockup.png" alt="Nimble Precise responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
 
-### Programme headline and call-to-action detail
+*Click the image to open the full-resolution mockup.*
 
-![Nimble Precise educator training headline and calls to action](images/nimble-precise-training-message-detail.webp)
+### Website transformation overview
 
-### Educator programme visual treatment
+The following Tech Conversion comparison presents the earlier and redesigned Nimble Precise website side by side.
 
-![Nimble Precise educator-training illustration from the saved page mockup](images/nimble-precise-educator-presentation-detail.webp)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/nimble-precise-before-after.webp">
+    <img src="https://techconversion.tech/api/media/before-after/nimble-precise-before-after.webp" alt="Nimble Precise website redesign before and after comparison" width="100%" />
+  </a>
+</p>
 
-The saved mockup uses a light-blue course hero, a clear two-level header, a prominent educator-training message and buttons guiding visitors towards training information. The public site itself uses colourful curriculum presentation, cards and level-wise programme breakdowns. More independent course screenshots can be added after genuine exports have been supplied. See [IMAGE-SOURCES.md](IMAGE-SOURCES.md).
+*The comparison graphic is project-presentation artwork. The full-page screenshots below provide a more detailed view of both versions.*
+
+## Full-length BEFORE and AFTER comparison
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%" align="center">BEFORE — Original Website</th>
+      <th width="50%" align="center">AFTER — Redesigned Website</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/nimble-precise-old-website-home-page.webp">
+          <img src="https://techconversion.tech/api/media/before-after/nimble-precise-old-website-home-page.webp" alt="Nimble Precise original website full-page screenshot before redesign" width="100%" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://techconversion.tech/api/media/before-after/nimble-precise-new-website-home-page-2.webp">
+          <img src="https://techconversion.tech/api/media/before-after/nimble-precise-new-website-home-page-2.webp" alt="Nimble Precise redesigned website full-page screenshot after redesign" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/nimble-precise-old-website-home-page.webp"><strong>View full-size BEFORE screenshot</strong></a>
+  &nbsp; | &nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/nimble-precise-new-website-home-page-2.webp"><strong>View full-size AFTER screenshot</strong></a>
+</p>
+
+### Image provenance
+
+The website mockup, before-and-after presentation and full-length website screenshots above are embedded from Tech Conversion's public project-media endpoints. They replace the earlier README's local `images/...` educator-homepage crops and the `IMAGE-SOURCES.md` dependency.
+
+These visuals document the project presentation, but they are **not evidence of measured increases in demo bookings, course registrations, educator enquiries, organic traffic, search rankings, page speed or conversions**.
+
+Because the images are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a fully self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
 
 ## Key visitor journeys
 
@@ -91,7 +147,9 @@ These are **appropriate review references**, not an assertion of completed certi
 
 ## Before and after
 
-A dated pair of old and new Nimble Precise production-site screenshots was not available in the reviewed files. The saved mockup above represents an educator homepage **portfolio presentation**, not an authenticated before-and-after comparison. A future comparison should use images from identifiable website versions.
+The supplied Tech Conversion assets include a dedicated before-and-after presentation plus full-length screenshots of the earlier and redesigned Nimble Precise homepages. These support a clear **visual before-and-after presentation of the website project**.
+
+The screenshots do not, by themselves, establish measured improvements in demo bookings, course registrations, educator enquiries, search visibility or page speed. Any performance claims should be backed by analytics, dated reporting periods and client approval.
 
 ## Results
 
@@ -105,6 +163,15 @@ The site publishes its **own** learning-community figures, pass rates and succes
 
 - **Portfolio:** [techconversion.tech/portfolio](https://techconversion.tech/portfolio)
 - **Case studies:** [techconversion.tech/case-studies](https://techconversion.tech/case-studies)
+- **Before & after:** [techconversion.tech/before-after](https://techconversion.tech/before-after)
 - **Contact:** [contact@techconversion.tech](mailto:contact@techconversion.tech), +91 91507 86547
 
-This repository is a **public record of website presentation work**, not a distribution of production source code, learner records, photographs of minors, certificates, course enrolments, private credentials or client accounts. The original Nimble Precise branding and associated intellectual property remain with the respective owners.
+## Repository scope and image credits
+
+This repository is a **public record of website presentation work**, not a distribution of production source code, learner records, photographs of minors, certificates, course enrolments, private credentials or client accounts.
+
+The website mockup, transformation artwork and full-page screenshots are sourced from Tech Conversion's public project media. The original Nimble Precise branding and associated intellectual property remain with the respective owners.
+
+---
+
+*Website project showcased by [Tech Conversion](https://techconversion.tech/).*
